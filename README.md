@@ -1,4 +1,4 @@
 # maven-exercise
 
-This is a project to demostrate the use of Maven in dependencies management.
+This is a project to demonstrate the use of Maven in dependencies management.
 
